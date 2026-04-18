@@ -11,10 +11,12 @@
             "id": "95e1470d2a2482c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "情报收集/📤 产出/小红书/2026-04/2026-04-04-4月1日才是情人节/images/01-cover-valentines.png"
+              },
+              "icon": "lucide-image",
+              "title": "01-cover-valentines"
             }
           }
         ]
@@ -173,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +189,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d28cc84e5156252a",
+  "active": "95e1470d2a2482c7",
   "lastOpenFiles": [
+    "情报收集/📤 产出/小红书/2026-04/2026-04-04-4月1日才是情人节/article.md",
+    "情报收集/📤 产出/公众号/mp/2026-04/2026-04-06-系统性焦虑-年轻人为什么不再喝鸡汤了-viral.md",
+    "情报收集/📤 产出/公众号/2026-04/为什么你总觉得时间不够用-2026-04-04/article.md",
+    "情报收集/📤 产出/公众号/2026-04/20260412-2026年这7个技能拉开同龄人差距/article.md",
+    "情报收集/📤 产出/公众号/2026-04/2026-04-05-77%的年轻人正在被系统性焦虑收割/images/03-infographic-anxiety-loop.png",
+    "情报收集/📤 产出/公众号/2026-04/2026-04-05-77%的年轻人正在被系统性焦虑收割/images/01-infographic-narrowing-gate.png",
+    "情报收集/📤 产出/公众号/2026-04/2026-04-05-77%的年轻人正在被系统性焦虑收割/images/02-framework-anxiety-production.png",
+    "情报收集/📤 产出/公众号/2026-04/2026-04-05-77%的年轻人正在被系统性焦虑收割/article-original.md",
+    "情报收集/📤 产出/公众号/2026-04/2026-04-05-77%的年轻人正在被系统性焦虑收割/images/04-comparison-paradigm-shifts.png",
+    "情报收集/⚙️ 运营/素材库/提示词/Rewrite as tweet thread.md",
+    "情报收集/⚙️ 运营/素材库/提示词/Explain like I am 5.md",
+    "情报收集/⚙️ 运营/素材库/提示词/Emojify.md",
+    "情报收集/⚙️ 运营/素材库/提示词/Clip YouTube Transcript.md",
+    "情报收集/⚙️ 运营/素材库/模板/内容解剖.md",
+    "情报收集/⚙️ 运营/素材库/竞品/monitor-20260406-0203.md",
+    "情报收集/⚙️ 运营/素材库/竞品/monitor-20260406-0146.md",
     "情报收集/📥 采集/社交媒体/Reddit/拆招/20260414-small-business-owners-who-actu.md",
     "情报收集/📥 采集/社交媒体/Reddit/拆招/20260414-small-business-owners-who-actu-tier1.md",
     "情报收集/📥 采集/社交媒体/Reddit/拆招/20260414-small-business-owners-ai-daily.md",
@@ -203,18 +221,6 @@
     "情报收集/📥 采集/社交媒体/Reddit/2026-04/reddit-20260403.md",
     "情报收集/📥 采集/社交媒体/Reddit/2026-04/reddit-2026-04-10.md",
     "情报收集/📥 采集/社交媒体/Reddit/2026-04/Reddit调研-自我成长-AI-20260410.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-weekly-deep-topics-20260403.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-morning-20260406.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-morning-20260405.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-morning-20260404.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-morning-20260403.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-evening-brief-20260403.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-evening-20260405.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-evening-20260404.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-daily-hotspot-20260403.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/2026-04-02-daily-intel.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/2026-04-06-evening-report.md",
-    "情报收集/📥 采集/新闻资讯/历史情报/2026-04/intel-daily-20260402.md",
     "情报收集/📥 采集/社交媒体/Reddit/拆招",
     "情报收集/📥 采集/社交媒体/Reddit/2026-04",
     "情报收集/📥 采集/新闻资讯/历史情报/2026-04",
@@ -230,10 +236,6 @@
     "情报收集/📤 产出/小红书/2026-04/2026-04-08-2026了你还在卷同龄人/images/04-content-methods-12.png",
     "情报收集/📤 产出/小红书/2026-04/2026-04-08-2026了你还在卷同龄人/images/03-content-real-reason.png",
     "情报收集/📤 产出/小红书/2026-04/2026-04-08-2026了你还在卷同龄人/images/02-content-anxiety-stages.png",
-    "情报收集/📤 产出/小红书/2026-04/2026-04-08-2026了你还在卷同龄人/images/01-cover-stop-involution.png",
-    "情报收集/📤 产出/小红书/2026-04/2026-04-07-零基础AI编程/images/04-action.png",
-    "情报收集/📤 产出/小红书/2026-04/2026-04-07-零基础AI编程/images/03-tips.png",
-    "情报收集/📤 产出/小红书/2026-04/2026-04-07-零基础AI编程/images/02-journey.png",
-    "情报收集/📤 产出/小红书/2026-04/2026-04-07-零基础AI编程/images/01-cover.png"
+    "情报收集/📤 产出/小红书/2026-04/2026-04-08-2026了你还在卷同龄人/images/01-cover-stop-involution.png"
   ]
 }
